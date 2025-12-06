@@ -131,6 +131,7 @@ Float	IEEE format (mantissa + exponent)
 
 
 
+IP ঠিকানা (IP Address) হলো প্রত্যেকটি ইন্টারনেটে যুক্ত ডিভাইসের একটি ইউনিক শনাক্তকারী সংখ্যা, ঠিক যেমন আপনার বাড়ির একটি ঠিকানা আছে ডাক বা পণ্য পৌঁছানোর জন্য।
 
 The Internet Protocol (IP) is one of the core protocols in the layers of the Internet, as you might guess from its name. It's used in all Internet communication to handle both addressing and routing.
 The protocol describes the use of IP addresses to uniquely identify Internet-connected devices. Just like homes need mailing addresses to receive mail, Internet-connected devices need an IP address to receive messages.
