@@ -17,3 +17,4 @@ print(d)
 # tuple all the values have different meaning
 point=(5,9)
 print(point[0])
+Also i install pip in matplotlib in my pc
