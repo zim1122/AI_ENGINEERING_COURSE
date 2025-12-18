@@ -17,4 +17,16 @@ print(d)
 # tuple all the values have different meaning
 point=(5,9)
 print(point[0])
-Also i install pip in matplotlib in my pc
+# Modules in python
+import math
+print(math.sqrt(16))
+print(math.pow(2,5))
+print(math.pi)
+print(math.log10 (100))
+print(math.floor(2.3))
+import calendar
+
+cal=calendar.month(2026,1)
+print(cal)
+print(cal.isleap(2026))
+
